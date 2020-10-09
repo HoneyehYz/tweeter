@@ -19,10 +19,10 @@ This repository is the starter code for the project to practice HTML, CSS, JS, j
 
 ## Screenshots
 
-![Screenshot of Tweet compose box](https://github.com/HoneyehYz/tweeter/blob/master/pictures/1.png)
+![Screenshot of Tweet compose box](https://github.com/HoneyehYz/tweeter/blob/master/docs/1.png)
 
-![Screenshot of composed tweet Tweet ](https://github.com/HoneyehYz/tweeter/blob/master/pictures/2.png)
+![Screenshot of composed tweet Tweet ](https://github.com/HoneyehYz/tweeter/blob/master/docs/2.png)
 
-![Screenshot of Tweet](https://github.com/HoneyehYz/tweeter/blob/master/pictures/3.png)
+![Screenshot of Tweet](https://github.com/HoneyehYz/tweeter/blob/master/docs/3.png)
 
-![Screenshot of responsive design](https://github.com/HoneyehYz/tweeter/blob/master/pictures/3.png)
+![Screenshot of responsive design](https://github.com/HoneyehYz/tweeter/blob/master/docs/3.png)
