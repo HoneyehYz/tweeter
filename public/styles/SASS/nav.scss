@@ -1,0 +1,33 @@
+#nav-bar {
+  position: fixed;
+  top: 0;
+  height: 120px;
+  width: 100%;
+  background-color:#4056A1;
+  color: #bddcdf;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+#nav-bart{
+  color: #bddcdf;
+  padding: 1.5em;
+}
+
+
+#nav-bar .header {
+  font-size: 2em;
+  line-height: 2.5;
+  padding: 1.5em;
+}
+
+}
+
+
+@media (max-width: 450px) {
+  #nav-bar {
+    display: inline-grid;
+    height: 155px;
+  }
+}
